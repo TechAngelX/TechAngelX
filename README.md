@@ -37,38 +37,7 @@ Check out more of my projects on [GitHub](https://github.com/yourusername).
 
 ## 📫 Get in Touch
 
-# Project Name
-
-## Contact
-
-If you have any questions or need further information, feel free to reach out to me:
-
-- **Email:** [zknobody@outlook.com](mailto:zknobody@outlook.com)
-- **Contact Form:** [Click here to fill out the contact form](https://example.com/contact-form)
-
-## Description
-
-(Your project description goes here...)
-
-## Installation
-
-(Instructions for installing your project...)
-
-## Usage
-
-(Instructions for using your project...)
-
-## Contributing
-
-(Instructions for contributing to your project...)
-
-## License
-
-(Information about the project's license...)
-
-
-
-- **Email**: [zknobody@outlook.com](mailto:zknobody@outlook.com)
+- **Email**:    [zknobody@outlook.com](mailto:zknobody@outlook.com)
 - **LinkedIn**: [linkedin.com/in/ricki-angel](https://www.linkedin.com/in/ricki-angel)
 
 ## ⚡ Fun Fact
