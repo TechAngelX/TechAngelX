@@ -12,6 +12,7 @@ With a robust background in IT, data management, and over a decade in academic a
 - **DevOps & Containerization**: Docker, CI/CD integration.
 - **Cloud & IT Management**: Azure, Active Directory, Microsoft 365, Salesforce.
 
+But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean colding, encapsulation, polymorpism and inheritance that come with it. I love OOP. I love to model the world !
 ## 🔧 Key Skills
 
 - **Software Development**: Proficient in algorithms, data structures, and application design.
