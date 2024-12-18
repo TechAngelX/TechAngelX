@@ -1,6 +1,6 @@
 # Hello, I'm Ricki Angel 👋
 
-I'm an MSc Computer Science student at Birkbeck, University of London, with a passion for software development and database administration. I have 18 months of hands-on experience in Java, C#, and SQL/Oracle PL/SQL, and I'm enthusiastic about solving real-world problems through code.
+I'm an MSc Computer Science student at Birkbeck, University of London, with a passion for software development and database administration. I have 24 months of hands-on experience in Java, C#, and SQL/Oracle PL/SQL, and I'm enthusiastic about solving real-world problems through code.
 
 ## 👨‍💻 About Me
 
@@ -12,7 +12,7 @@ With a robust background in IT, data management, and over a decade in academic a
 - **DevOps & Containerization**: Docker, CI/CD integration.
 - **Cloud & IT Management**: Azure, Active Directory, Microsoft 365, Salesforce.
 
-But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean colding, encapsulation, polymorpism and inheritance that come with it. I love OOP. I love to model the world !
+But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean coding, encapsulation, polymorpism and inheritance that come with it. I love OOP. I love to model the world !
 ## 🔧 Key Skills
 
 - **Software Development**: Proficient in algorithms, data structures, and application design.
