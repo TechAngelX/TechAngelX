@@ -38,7 +38,7 @@ Check out more of my projects on [GitHub](https://github.com/yourusername).
 
 ## 📫 Get in Touch
 
-- **Email**:  **&nbsp;&nbsp; [zknobody@outlook.com](mailto:zknobody@outlook.com)
+- **Email**:  **&nbsp;&nbsp; [angelricki@outlook.com](mailto:angelricki@outlook.com)
 - **LinkedIn**: [linkedin.com/in/ricki-angel](https://www.linkedin.com/in/ricki-angel)
 
 ## ⚡ Fun Fact
