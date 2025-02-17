@@ -12,7 +12,7 @@ With a robust background in IT, data management, and over a decade in academic a
 - **DevOps & Containerization**: Docker, CI/CD integration.
 - **Cloud & IT Management**: Azure, Active Directory, Microsoft 365, Salesforce.
 
-But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean coding, encapsulation, polymorpism and inheritance that come with it. I love OOP. I love to model the world !
+But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean coding, clean implementation of design patterns, encapsulation, polymorphism, inheritance and all that come with it. I love OOP. I love to model the world !
 ## 🔧 Key Skills
 
 - **Software Development**: Proficient in algorithms, data structures, and application design.
@@ -43,7 +43,7 @@ Check out more of my projects on [GitHub](https://github.com/yourusername).
 
 ## ⚡ Fun Fact
 
-Beyond computing, I enjoy financial investing, multimedia projects, and exploring the arts, including live music and video editing. I'm also a runner, athlete, and an enthusiast of Russian language, culture, and technology.
+Beyond computing, I enjoy financial analysis and stock market investing, multimedia projects, and exploring the arts, including live music and video editing. I'm also a runner, athlete, and an enthusiast of Russian language, culture, and technology.
 
 ---
 
