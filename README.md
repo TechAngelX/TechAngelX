@@ -1,7 +1,7 @@
 # Hello, I'm Ricki Angel 👋  
 I Build things !
 
-I'm an MSc Computer Science student at Birkbeck, University of London, with a passion for software development and database administration. I have 25 months of hands-on experience in Java, C#, and SQL/Oracle PL/SQL, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code.
+Currently an MSc Computer Science student at Birkbeck, University of London, with a passion for software development and database administration. I have 25 months of hands-on experience in Java, C#, and SQL/Oracle PL/SQL, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code.
 
 How times change... Last year's trends were all Blockchain. Today, it's all about AI.
 Currently exploring Neural Networks and Deep Learning methodologies. Wish me luck !
