@@ -11,7 +11,7 @@ Currently exploring Neural Networks and Deep Learning methodologies. Wish me luc
 With a robust background in IT, data management, and over a decade in academic and programme administration, I am transitioning into software engineering. My skills include software design, coding, testing, and maintenance, with a focus on backend and frontend development. I am proficient in:
 
 - **Programming Languages**: Java, C#, Swift, PHP, JavaScript, SQL, and basics in C++, Python, and Solidity.
-- **Web Technologies**: HTML, CSS, JavaScript, REST APIs.
+- **Web Technologies**: HTML, CSS, JavaScript, React.js, REST APIs.
 - **Database Administration**: Oracle PL/SQL, MySQL, SQL Developer.
 - **DevOps & Containerization**: Docker, CI/CD integration.
 - **Cloud & IT Management**: Azure, Active Directory, Microsoft 365, Salesforce.
