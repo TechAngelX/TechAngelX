@@ -3,7 +3,7 @@ I Build things !
 
 Currently an MSc Computer Science student at Birkbeck, University of London, with a passion for software development and database administration. I have 25 months of hands-on experience in Java, C#, and SQL/Oracle PL/SQL, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code.
 
-How times change... Last year's trend was all Blockchain — Today, it's all about AI.
+How times change... Last year's trend was all Blockchain <br> — Today, it's all about AI.
 Currently training models, builduing Neural Networks and exploring Deep Learning methodologies. Wish me luck !
 
 ## 👨‍💻 About Me
