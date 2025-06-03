@@ -51,4 +51,3 @@ Beyond computing, I enjoy financial analysis and stock market investing, multime
 
 ---
 
-Feel free to adjust any sections to better match your style or add any specific details you’d like to highlight! This description provides a solid overview of your background and skills, tailored for your GitHub profile.
