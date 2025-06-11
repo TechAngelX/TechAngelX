@@ -19,7 +19,7 @@ With a robust background in IT, data management, and over a decade in academic a
 But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean coding, clean implementation of design patterns, encapsulation, polymorphism, inheritance and all that come with it. I love OOP. I love to model the world !
 ## 🔧 Key Skills
 
-- **Software Development**: Proficient in algorithms, data structures, and application design.
+- **Software Development**: Proficient in data structures, algorithms and application design.
 - **Frontend & Backend Development**: Experienced with HTML/CSS, JavaScript, PHP, JSP, and Node.js.
 - **Database Management**: Expertise in Oracle PL/SQL, MySQL, and SQL Developer.
 - **DevOps**: Skilled in Docker, CI/CD pipelines, and container deployment.
