@@ -11,10 +11,12 @@ Currently training models, builduing neural networks and exploring deep learning
 With a robust background in IT, data management, and over a decade in academic and programme administration, I am transitioning into software engineering. My skills include software design, coding, testing, and maintenance, with a focus on backend and frontend development. I am proficient in:
 
 - **Programming Languages**: Java, C#, Swift, PHP, JavaScript, SQL, and basics in C++, Python, and Solidity.
-- **Web Technologies**: HTML, CSS, JavaScript, React.js, REST APIs.
+- **Web Technologies**: HTML, CSS, JavaScript, React.js, REST APIs (love Tailwind ❤️) 
 - **Database Administration**: Oracle PL/SQL, MySQL, SQL Developer.
-- **DevOps & Containerization**: Docker, CI/CD integration.
-- **Cloud & IT Management**: Azure, Active Directory, Microsoft 365, Salesforce.
+- **Cloud & IT Management**: Google Cloud/GKE, AWS, Azure, Microsoft 365,Active Directory, Salesforce.
+- **DevOps & Containerization**: Docker, K8s, CI/CD integration.
+- **Database Administration**: Oracle PL/SQL, MySQL, SQL Developer.
+
 
 But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean coding, clean implementation of design patterns, encapsulation, polymorphism, inheritance and all that come with it. I love OOP. I love to model the world !
 ## 🔧 Key Skills
@@ -24,6 +26,8 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 - **Database Management**: Expertise in Oracle PL/SQL, MySQL, and SQL Developer.
 - **DevOps**: Skilled in Docker, CI/CD pipelines, and container deployment.
 - **Project Management**: Strong communication and leadership skills, with experience in Agile/Scrum methodologies.
+
+- **I;m a bit of a Hackathon freak. I like to code fast, get to an MVP showcase, then build for production if it shows potential. Looking for other Hackathon freaks, code enthusiasts and generally people who are positive about building coll stuff !
 
 ## 🎓 Education
 
