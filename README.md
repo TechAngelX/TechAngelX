@@ -15,7 +15,10 @@ I'm a bit of a Hackathon freak. I like to code fast (npm), get to an MVP showcas
 I am proficient in:
 
 - **Programming Languages**: Java, C#, Swift, PHP, JavaScript, SQL, and basics in C++, Python, and Solidity.
-- **Web Technologies**: HTML, CSS, JavaScript, REST APIs, Node.js, React.js, (love Tailwind ❤️) 
+- **Web Technologies**:
+- Frontend: HTML, CSS, JavaScript, React.js, Vue.js (love Tailwind ❤️)
+- Backend & APIs: JavaScript, Node.js, Express, Python/Django, REST APIs
+
 - **Cloud & IT Management**: Google Cloud/GKE, AWS, Azure, Microsoft 365,Active Directory, Salesforce.
 - **DevOps & Containerization**: Docker, K8s, CI/CD integration.
 - **Database Administration**: Oracle PL/SQL, MySQL, SQL Developer.
