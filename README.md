@@ -21,7 +21,7 @@ I am proficient in:
 
 - **Cloud & IT Management**: Google Cloud/GKE, AWS, Azure, Microsoft 365,Active Directory, Salesforce.
 - **DevOps & Containerization**: Docker, K8s, CI/CD integration.
-- **Database Administration**: Oracle PL/SQL, MySQL, SQL Developer.
+- **Database Administration**: Oracle PL/SQL, MySQL/PHP, SQL Developer, MongoDB.
 
 
 But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean coding, clean implementation of design patterns, encapsulation, polymorphism, inheritance and all that come with it. I love OOP. I love to model the world !
