@@ -10,7 +10,7 @@ Currently training models, builduing neural networks and exploring deep learning
 
 With a robust background in IT, data management, and over a decade in academic and programme administration, I am transitioning into software engineering. My skills include software design, coding, testing, and maintenance, with a focus on backend and frontend development.
 
-I'm a bit of a Hackathon freak. I like to code fast (npm), get to an MVP showcase, then build for production if it shows potential. Looking for other Hackathon freaks, code enthusiasts and generally people who are positive about building cool stuff together !
+I'm a bit of a Hackathon freak. I like to code fast (npm), get to an MVP showcase, then apply a production-ready mindset to building projects that show high potential. Looking for other Hackathon freaks, code enthusiasts and generally people who are positive about building cool stuff together !
 
 I am proficient in:
 
