@@ -1,6 +1,9 @@
 # Hello, I'm Ricki Angel 👋  
 I build things !
 
+<img width="312" height="203" alt="Screenshot 2025-10-15 at 22 17 25" src="https://github.com/user-attachments/assets/15b5a7a2-3c35-4ac1-ae78-5290d6a3fa45" />
+
+
 Currently an MSc Computer Science student at Birkbeck, University of London, with a passion for software development and database administration. I have 25 months of hands-on experience in Java, C#, and SQL/Oracle PL/SQL, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code.
 
 How times change... Couple of year's ago, the trend was all Blockchain. <br>Today, it's all about AI.
