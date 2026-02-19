@@ -2,9 +2,7 @@
 I build things !
 
 
-
-
-Currently an MSc Computer Science student at Birkbeck, University of London, with a passion for software development and database administration. I have 25 months of hands-on experience in Java, C#, and SQL/Oracle PL/SQL, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code.
+MSc Computer Science graduate at Birkbeck, University of London, and CEO / CTO of zoopbyte.com - a full stack  software development company. I have considerable hands-on experience building solutions Java, C#, and SQL/Oracle PL/SQL, across all major platoforms, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code. Desktop apps, mobile apps, or progressive web applications, it's all rock 'n' roll to me.
 
 How times change... Couple of year's ago, the trend was all Blockchain. <br>Today, it's all about AI.
 Currently training models, builduing neural networks and exploring deep learning methodologies. Wish me luck !
