@@ -2,7 +2,7 @@
 I build things !
 
 
-MSc Computer Science graduate at Birkbeck, University of London, and CEO / CTO of zoopbyte.com - a full stack  software development company. I have considerable hands-on experience building solutions Java, C#, and SQL/Oracle PL/SQL, across all major platoforms, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code. Desktop apps, mobile apps, or progressive web applications, it's all rock 'n' roll to me.
+MSc Computer Science graduate at Birkbeck, University of London, and CEO / CTO of zoopbyte.com - a full stack  software development company. I have considerable hands-on experience building solutions Java, C#, Node.js / React / Next and other major technnologies, across all major platforms, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code. Desktop apps, mobile apps, or progressive web applications, it's all rock 'n' roll to me.
 
 How times change... Couple of year's ago, the trend was all Blockchain. <br>Today, it's all about AI & ML.
 Currently training models, builduing neural networks and exploring deep learning methodologies; specilizing in computer vision and Generative Adversarial Networks. But hey, them models aren't gonna train themselves - so wish me luck !
