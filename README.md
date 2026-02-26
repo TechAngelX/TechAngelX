@@ -43,6 +43,8 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 
 ## 🚀 Projects
 
+- **(https://www.zoopbyte.com)*: check it out yourselves to know more.
+
 - **GradeWiz**: A C#/.NET and Java application to calculate university module grades.
 - **CoreTime**: A time management tool developed in C#/.NET.
 - **TechBay**: A mock eBay auction website clone showcasing full-stack development skills.
@@ -52,12 +54,12 @@ Check out more of my projects on [GitHub](https://github.com/yourusername).
 
 ## 📫 Get in Touch
 
-- **Email**:  **&nbsp;&nbsp; [angelricki@outlook.com](mailto:angelricki@outlook.com)
+- **Email**:  **&nbsp;&nbsp; [info@zoopbyte.com](mailto:info@zoopbyte.com)
 - **LinkedIn**: [linkedin.com/in/ricki-angel](https://www.linkedin.com/in/ricki-angel)
 
 ## ⚡ Fun Fact
 
-Beyond computing, I enjoy financial analysis and stock market investing, multimedia projects, and exploring the arts, including live music and video editing. I'm also a runner, athlete, and an enthusiast of Russian language, culture, and technology.
+Beyond computing, I enjoy financial analysis and stock market investing, multimedia projects, and exploring the arts, including live music and video editing. I'm also a runner, athlete, and an enthusiast of Russian language, culture, and technology. Can solve a Rubki's cube in 1m 47, and run a marathon in 3 hrs 22 - although not at the same time. I cook a mean Italian dish, too.
 
 ---
 
