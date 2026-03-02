@@ -1,6 +1,6 @@
 # Hello, I'm Ricki Angel 👋  
 
-aka - TechAngelX. I build things !
+I build things !
 
 ![DemonLogo-2035](https://github.com/user-attachments/assets/91f871bc-df37-4f1c-80ab-f931a2593650)
 
