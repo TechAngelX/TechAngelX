@@ -2,9 +2,6 @@
 
 I build things !
 
-![DemonLogo-2035](https://github.com/user-attachments/assets/91f871bc-df37-4f1c-80ab-f931a2593650)
-
-
 
 I'm an MSc Computer Science graduate, and CEO / CTO of zoopbyte.com - a full stack software development company. 
 
@@ -40,6 +37,7 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 - **DevOps**: Skilled in Docker, CI/CD pipelines, and container deployment.
 - **Project Management**: Strong communication and leadership skills, with experience in Agile/Scrum methodologies.
 
+![DemonLogo-2035](https://github.com/user-attachments/assets/91f871bc-df37-4f1c-80ab-f931a2593650)
 
 ## 🎓 Education
 
