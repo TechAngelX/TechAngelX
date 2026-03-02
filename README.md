@@ -1,4 +1,4 @@
-# Hello, I'm Ricki Angel 👋  
+# Hello, I'm Ricki 👋  
 
 I build things !
 
