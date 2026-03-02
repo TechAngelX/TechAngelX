@@ -1,11 +1,14 @@
 # Hello, I'm Ricki Angel 👋  
+
 aka - TechAngelX. I build things !
 
 ![DemonLogo-2035](https://github.com/user-attachments/assets/91f871bc-df37-4f1c-80ab-f931a2593650)
 
 
 
-MSc Computer Science graduate at Birkbeck, University of London, and CEO / CTO of zoopbyte.com - a full stack  software development company. I have considerable hands-on experience building solutions Java, C#, Node.js / React / Next and other major technnologies, across all major platforms, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code. Desktop apps, mobile apps, or progressive web applications, it's all rock 'n' roll to me.
+I'm an MSc Computer Science graduate, and CEO / CTO of zoopbyte.com - a full stack software development company. 
+
+I have considerable hands-on experience building solutions Java, C#, Node.js / React / Next and other major technnologies, across all major platforms, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code. Desktop apps, mobile apps, or progressive web applications, it's all rock 'n' roll to me.
 
 How times change... Couple of year's ago, the trend was all Blockchain. <br>Today, it's all about AI & ML.
 Currently training models, builduing neural networks and exploring deep learning methodologies; specilizing in computer vision and Generative Adversarial Networks. But hey, them models aren't gonna train themselves - so wish me luck !
