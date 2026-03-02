@@ -1,7 +1,8 @@
 # Hello, I'm Ricki Angel 👋  
 aka - TechAngelX. I build things !
 
-<img width="649" height="636" alt="DemonLogo-2035-circle" src="https://github.com/user-attachments/assets/0ac88319-59a3-4b5d-a176-f8a66a1604d8" />
+![DemonLogo-2035](https://github.com/user-attachments/assets/91f871bc-df37-4f1c-80ab-f931a2593650)
+
 
 
 MSc Computer Science graduate at Birkbeck, University of London, and CEO / CTO of zoopbyte.com - a full stack  software development company. I have considerable hands-on experience building solutions Java, C#, Node.js / React / Next and other major technnologies, across all major platforms, but a lifetime experience of computer systems and tech in general. I'm enthusiastic about solving real-world problems through code. Desktop apps, mobile apps, or progressive web applications, it's all rock 'n' roll to me.
