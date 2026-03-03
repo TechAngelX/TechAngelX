@@ -38,8 +38,10 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 
 ## 🚀 Projects
 
-- **[zoopbyte](https://www.zoopbyte.com*): Check it out yourselves to know more.
+- **[zoopbyte](https://www.zoopbyte.com)**: Check it out yourselves to know more.
 - **[Dossier](https://github.com/TechAngelX/Dossier)**: Automate UCL Portico admissions processing with Playwright browser automation.
+- **[ADMerger](https://github.com/TechAngelX/ADMerger)**: Cross-platform desktop application, MVVM architecture that automates university admissions spreadsheet processing, featuring real-time fuzzy matching and intelligent grading classification.
+- 
 - - **GradeWiz**: A C#/.NET and Java application to calculate university module grades.
 - **CoreTime**: A time management tool developed in C#/.NET.
 - **TechBay**: A mock eBay auction website clone showcasing full-stack development skills.
