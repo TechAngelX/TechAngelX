@@ -39,7 +39,7 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 ## 🚀 Projects
 
 - **[ZoopByte](https://www.zoopbyte.com)**: Check it out yourselves to know more.
-- **[Dossier](https://github.com/TechAngelX/Dossier)**: Automate UCL Portico admissions processing with Playwright browser automation.
+- **[Dossier](https://github.com/TechAngelX/Dossier)**: Automate UCL Portico admissions processing with browser automation.
 - **[SoftAPI / softFIT ]([https://www.zoopbyte.com/softfit)**Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless.
 - 
 - **[ADMerger](https://github.com/TechAngelX/ADMerger)**: Cross-platform desktop application, MVVM architecture that automates university admissions spreadsheet processing, featuring real-time fuzzy matching and intelligent grading classification.
