@@ -42,7 +42,7 @@ My primary language (my 'bread and butter') is Java (17), and all the fun aspect
 |:---|:---|
 | **[ZoopByte](https://www.zoopbyte.com)** | Check it out yourselves to know more. |
 | **[Dossier](https://github.com/TechAngelX/Dossier)** | Automate UCL Portico admissions processing with browser automation. |
-| **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)** | Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless. - TRY IT OUT! - load your own image into the **[live demo](https://www.zoopbyte.com/softfit)** |
+| **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)** | Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender/Python headless. TRY IT OUT! - load your own image into the **[live demo](https://www.zoopbyte.com/softfit)** |
 | **[BuyCarCheck](https://buycarcheck.com/)** | Full-stack Next.js web app for instant UK vehicle checks, integrating official DVLA APIs to verify tax status, MOT, write-off history, and mileage — built after going through the pain of buying a car myself. |
 | **[ADMerger](https://github.com/TechAngelX/ADMerger)** | Cross-platform desktop application, MVVM architecture that automates university admissions spreadsheet processing, featuring real-time fuzzy matching and intelligent grading classification. |
 | **[SnakeIt](https://www.zoopbyte.com/snakeit)** | Browser-based retro snake game with a PostgreSQL backend — leaderboard scores persisted via REST API calls with row-level security, serverless functions and frontend deployed on Vercel, with full PWA support. |
