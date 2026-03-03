@@ -38,7 +38,7 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 
 ## 🚀 Projects
 
-- **[ZoopByte](https://www.zoopbyte.com)**: Check it out yourselves to know more.
+- **[ZoopByte](https://www.zoopbyte.com)**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Check it out yourselves to know more.
 - **[Dossier](https://github.com/TechAngelX/Dossier)**: Automate UCL Portico admissions processing with browser automation.
 - **[BuyCarCheck](https://github.com/TechAngelX/BuyCarCheck)**: Full-stack Next.js web        
   app for instant UK vehicle checks, integrating official DVLA APIs to verify tax status, MOT, write-off history, and mileage — built after going through the pain of buying a car myself.                                                 
