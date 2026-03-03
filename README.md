@@ -12,20 +12,20 @@ Currently training models, builduing neural networks and exploring deep learning
 
 ## 👨‍💻 About Me
 
-With a robust background in IT, data management, and over a decade in academic and programme administration, I am transitioning into software engineering. My skills include software design, coding, testing, and maintenance, with a focus on backend and frontend development.
+With a background in IT, specialising in backend development, and over a decade of experience in academic and programme administration, I am transitioning into software engineering. My skills include software design, coding, testing, and maintenance, with a strong focus on backend development.
 
-I'm a bit of a Hackathon freak. I like to code fast (npm), get to an MVP showcase, then apply a production-ready mindset to building projects that show high potential. Looking for other Hackathon freaks, code enthusiasts and generally people who are positive about building cool stuff together !
+I'm a bit of a Hackathon freak. I enjoy building and shipping projects quickly, turning ideas into working prototypes and MVPs using tools like npm, FastAPI, and Spring Boot, then refining them into solid, production-ready solutions. Always open to collaborating with others who like creating and improving meaningful products. I'm Looking for other Hackathon freaks, code enthusiasts and generally people who are positive about building cool stuff together !
 
 I am proficient in:
 
 - **Programming Languages**: Java, C#, Swift, PHP, JavaScript, SQL, and basics in C++, Python, and Solidity.
 - **Web Technologies**:
 - Frontend: HTML, CSS, JavaScript, React.js, Vue.js (love Tailwind ❤️)
-- Backend & APIs: JavaScript, Node.js, Express, Python/Django, REST APIs
+- Backend & APIs: JavaScript, Node.js, Express, Spring Boot, Python/Django, REST APIs
 
-- **Cloud & IT Management**: Google Cloud/GKE, AWS, Azure, Microsoft 365,Active Directory, Salesforce.
+- **Cloud & IT Management**: Google Cloud/GKE, AWS, Azure, Microsoft 365,Active Directory, Salesforce, Vercel / Render
 - **DevOps & Containerization**: Docker, K8s, CI/CD integration.
-- **Database Administration**: Oracle PL/SQL, MySQL/PHP, SQL Developer, MongoDB.
+- **Database Administration**: Postgres, Oracle PL/SQL, MySQL/PHP, SQL Developer, MongoDB.
 
 
 But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean coding, clean implementation of design patterns, encapsulation, polymorphism, inheritance and all that come with it. I love OOP. I love to model the world !
@@ -47,8 +47,9 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 
 ## 🚀 Projects
 
-- **(https://www.zoopbyte.com)*: check it out yourselves to know more.
-
+- **https://www.zoopbyte.com*: Check it out yourselves to know more.
+Dossier https://github.com/TechAngelX/Dossier
+ - Automate UCL Portico admissions processing with Playwright browser automation
 - **GradeWiz**: A C#/.NET and Java application to calculate university module grades.
 - **CoreTime**: A time management tool developed in C#/.NET.
 - **TechBay**: A mock eBay auction website clone showcasing full-stack development skills.
