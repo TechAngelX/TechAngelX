@@ -40,14 +40,11 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 
 - **[ZoopByte](https://www.zoopbyte.com)**: Check it out yourselves to know more.
 - **[Dossier](https://github.com/TechAngelX/Dossier)**: Automate UCL Portico admissions processing with browser automation.
-- **[SoftAPI / softFIT ]([https://www.zoopbyte.com/softfit)**Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless.
-- 
+- **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)**Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless.
 - **[ADMerger](https://github.com/TechAngelX/ADMerger)**: Cross-platform desktop application, MVVM architecture that automates university admissions spreadsheet processing, featuring real-time fuzzy matching and intelligent grading classification.
 - **[SnakeIt](https://www.zoopbyte.com/snakeit)**: Check it out yourselves to know more.
-- Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless.
-- 
-- 
-- - **GradeWiz**: A C#/.NET and Java application to calculate university module grades.
+- **[SnakeIt](https://www.zoopbyte.com/snakeit)**: Browser-based retro snake game with a PostGres SQL backend — leaderboard scores persisted via REST API calls with row-level security, serverless functions and frontend deployed on Vercel, with full PWA support.
+- **GradeWiz**: A C#/.NET and Java application to calculate university module grades.
 - **CoreTime**: A time management tool developed in C#/.NET.
 - **TechBay**: A mock eBay auction website clone showcasing full-stack development skills.
 - **Cursicon**: Implemented a recursive Depth First Search algorithm for maze navigation.
