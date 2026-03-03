@@ -22,11 +22,10 @@ I am proficient in:
 - **Web Technologies**:
 - Frontend: HTML, CSS, JavaScript, React.js, Vue.js (love Tailwind ❤️)
 - Backend & APIs: JavaScript, Node.js, Express, Spring Boot, Python/Django, REST APIs
-
 - **Cloud & IT Management**: Google Cloud/GKE, AWS, Azure, Microsoft 365,Active Directory, Salesforce, Vercel / Render
 - **DevOps & Containerization**: Docker, K8s, CI/CD integration.
 - **Database Administration**: Postgres, Oracle PL/SQL, MySQL/PHP, SQL Developer, MongoDB.
-
+- **Linux & Scripting**: Bash/Zsh scripting, Linux CLI, Homebrew (macOS), PowerShell (Windows), Chocolatey, Claude CLI.
 
 But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean coding, clean implementation of design patterns, encapsulation, polymorphism, inheritance and all that come with it. I love OOP. I love to model the world !
 ## 🔧 Key Skills
@@ -37,6 +36,17 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 - **DevOps**: Skilled in Docker, CI/CD pipelines, and container deployment.
 - **Project Management**: Strong communication and leadership skills, with experience in Agile/Scrum methodologies.
 
+## 🚀 Projects
+
+- **https://www.zoopbyte.com*: Check it out yourselves to know more.
+- **[Dossier](https://github.com/TechAngelX/Dossier)**: Automate UCL Portico admissions processing with Playwright browser automation.
+- - **GradeWiz**: A C#/.NET and Java application to calculate university module grades.
+- **CoreTime**: A time management tool developed in C#/.NET.
+- **TechBay**: A mock eBay auction website clone showcasing full-stack development skills.
+- **Cursicon**: Implemented a recursive Depth First Search algorithm for maze navigation.
+
+Check out more of my projects on [GitHub](https://github.com/yourusername).
+
 ![DemonLogo-2035](https://github.com/user-attachments/assets/91f871bc-df37-4f1c-80ab-f931a2593650)
 
 ## 🎓 Education
@@ -45,17 +55,6 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 - **Introduction to Computer Science**, Harvard CS50x (2022)
 - **BA (Hons) International Marketing**, University of Bedfordshire
 
-## 🚀 Projects
-
-- **https://www.zoopbyte.com*: Check it out yourselves to know more.
-Dossier https://github.com/TechAngelX/Dossier
- - Automate UCL Portico admissions processing with Playwright browser automation
-- **GradeWiz**: A C#/.NET and Java application to calculate university module grades.
-- **CoreTime**: A time management tool developed in C#/.NET.
-- **TechBay**: A mock eBay auction website clone showcasing full-stack development skills.
-- **Cursicon**: Implemented a recursive Depth First Search algorithm for maze navigation.
-
-Check out more of my projects on [GitHub](https://github.com/yourusername).
 
 ## 📫 Get in Touch
 
