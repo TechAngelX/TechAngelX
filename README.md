@@ -36,14 +36,29 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 - **DevOps**: Skilled in Docker, CI/CD pipelines, and container deployment.
 - **Project Management**: Strong communication and leadership skills, with experience in Agile/Scrum methodologies.
 
+
+
+⏺ - **[ZoopByte](https://www.zoopbyte.com)**: Check it out yourselves to know more.
+  - **[Dossier](https://github.com/TechAngelX/Dossier)**: Automate UCL Portico admissions processing with browser
+  automation.                                                                                                             
+  - **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)**Programmatic GLB garment generation API. Converts 2D textures
+   into rigged 3D models using Blender headless.                                                                          
+  - **[ADMerger](https://github.com/TechAngelX/ADMerger)**: Cross-platform desktop application, MVVM architecture that
+  automates university admissions spreadsheet processing, featuring real-time fuzzy matching and intelligent grading
+  classification.
+  - **[SnakeIt](https://www.zoopbyte.com/snakeit)**: Browser-based retro snake game with a PostGres SQL backend —
+  leaderboard scores persisted via REST API calls with row-level security, serverless functions and frontend deployed on
+  Vercel, with full PWA support.
+
+
 ## 🚀 Projects
 
 - **[ZoopByte](https://www.zoopbyte.com)**: Check it out yourselves to know more.
 - **[Dossier](https://github.com/TechAngelX/Dossier)**: Automate UCL Portico admissions processing with browser automation.
 - **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)**Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless.
 - **[ADMerger](https://github.com/TechAngelX/ADMerger)**: Cross-platform desktop application, MVVM architecture that automates university admissions spreadsheet processing, featuring real-time fuzzy matching and intelligent grading classification.
-- **[SnakeIt](https://www.zoopbyte.com/snakeit)**: Check it out yourselves to know more.
 - **[SnakeIt](https://www.zoopbyte.com/snakeit)**: Browser-based retro snake game with a PostGres SQL backend — leaderboard scores persisted via REST API calls with row-level security, serverless functions and frontend deployed on Vercel, with full PWA support.
+- 
 - **GradeWiz**: A C#/.NET and Java application to calculate university module grades.
 - **CoreTime**: A time management tool developed in C#/.NET.
 - **TechBay**: A mock eBay auction website clone showcasing full-stack development skills.
