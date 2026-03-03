@@ -24,11 +24,11 @@ I am proficient in:
 - **AI & Machine Learning**: Neural network design, deep learning, model training, computer vision, GANs, and exploratory work with LLMs and generative AI tooling.
 - **Cloud & IT Management**: Google Cloud/GKE, AWS, Azure, Microsoft 365, Active Directory, Salesforce, Vercel / Render.
 - **DevOps & Containerization**: Docker, K8s, CI/CD integration.
-- - **Security**: JWT authentication, OAuth 2.0, RBAC, row-level security, environment variable management, bcrypt password hashing, Spring Security.
-- **Database Administration**: Postgres, Oracle PL/SQL, MySQL/PHP, SQL Developer, MongoDB.
+- **Security**: JWT authentication, OAuth 2.0, RBAC, dbase row-level security, environment variable management, bcrypt password hashing, Spring Security.
+- **Database Admin**: Postgres, Oracle PL/SQL, MySQL/PHP, SQL Developer, MongoDB.
 - **Linux & Scripting**: Bash/Zsh scripting, Linux CLI, Homebrew (macOS), PowerShell (Windows), Chocolatey, Claude CLI.
 
-But my primary language (my 'bread and butter') is Java, and all the fun aspects of SOLID principles, clean coding, clean implementation of design patterns, encapsulation, polymorphism, inheritance and all that come with it. I love OOP. I love to model the world !
+My primary language (my 'bread and butter') is Java (17), and all the fun aspects of SOLID principles, clean coding, clean implementation of design patterns, encapsulation, polymorphism, inheritance and all that come with it. I love OOP. I love to model the world !
 ## 🔧 Key Skills
 
 - **Software Development**: Proficient in data structures, algorithms and application design.
@@ -42,11 +42,11 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 |:---|:---|
 | **[ZoopByte](https://www.zoopbyte.com)** | Check it out yourselves to know more. |
 | **[Dossier](https://github.com/TechAngelX/Dossier)** | Automate UCL Portico admissions processing with browser automation. |
-| **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)** | Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless. - Try it out !  - load an image into the **[live demo](https://www.zoopbyte.com/softfit)** |
+| **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)** | Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless. - TRY IT OUT! - load your own image into the **[live demo](https://www.zoopbyte.com/softfit)** |
 | **[BuyCarCheck](https://buycarcheck.com/)** | Full-stack Next.js web app for instant UK vehicle checks, integrating official DVLA APIs to verify tax status, MOT, write-off history, and mileage — built after going through the pain of buying a car myself. |
 | **[ADMerger](https://github.com/TechAngelX/ADMerger)** | Cross-platform desktop application, MVVM architecture that automates university admissions spreadsheet processing, featuring real-time fuzzy matching and intelligent grading classification. |
 | **[SnakeIt](https://www.zoopbyte.com/snakeit)** | Browser-based retro snake game with a PostgreSQL backend — leaderboard scores persisted via REST API calls with row-level security, serverless functions and frontend deployed on Vercel, with full PWA support. |
-| **[XCore Tasks API](https://github.com/TechAngelX/xcore-api)** | Secure, production-style RESTful backend built with Spring Boot, featuring JWT authentication, role-based access control, PostgreSQL integration, and Dockerised deployment. |
+| **[XCore API](https://github.com/TechAngelX/xcore-api)** | Secure, production-style RESTful backend built with Spring Boot, featuring JWT authentication, role-based access control, PostgreSQL integration, and Dockerised deployment. |
 | **GradeWiz** | C#/.NET and Java application to calculate university module grades. |
 | **CoreTime** | A time management tool developed in C#/.NET. |
 | **TechBay** | A mock eBay auction website clone showcasing full-stack development skills. |
