@@ -37,22 +37,20 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 - **Project Management**: Strong communication and leadership skills, with experience in Agile/Scrum methodologies.
 
 ## 🚀 Projects
+| Project | Description |
+|:---|:---|
+| **[ZoopByte](https://www.zoopbyte.com)** | Check it out yourselves to know more. |
+| **[Dossier](https://github.com/TechAngelX/Dossier)** | Automate UCL Portico admissions processing with browser automation. |
+| **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)** | Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless. |
+| **[BuyCarCheck](https://github.com/TechAngelX/BuyCarCheck)** | Full-stack Next.js web app for instant UK vehicle checks, integrating official DVLA APIs to verify tax status, MOT, write-off history, and mileage — built after going through the pain of buying a car myself. |
+| **[ADMerger](https://github.com/TechAngelX/ADMerger)** | Cross-platform desktop application, MVVM architecture that automates university admissions spreadsheet processing, featuring real-time fuzzy matching and intelligent grading classification. |
+| **[SnakeIt](https://www.zoopbyte.com/snakeit)** | Browser-based retro snake game with a PostgreSQL backend — leaderboard scores persisted via REST API calls with row-level security, serverless functions and frontend deployed on Vercel, with full PWA support. |
+| **[XCore Tasks API](https://github.com/TechAngelX/xcore-api)** | Secure, production-style RESTful backend built with Spring Boot, featuring JWT authentication, role-based access control, PostgreSQL integration, and Dockerised deployment. |
+| **GradeWiz** | C#/.NET and Java application to calculate university module grades. |
+| **CoreTime** | A time management tool developed in C#/.NET. |
+| **TechBay** | A mock eBay auction website clone showcasing full-stack development skills. |
+| **Cursicon** | Recursive Depth First Search algorithm implementation for maze navigation. |
 
-- **[ZoopByte](https://www.zoopbyte.com)**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check it out yourselves to know more.
-- **[Dossier](https://github.com/TechAngelX/Dossier)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automate UCL Portico admissions processing with browser automation.
-- **[BuyCarCheck](https://github.com/TechAngelX/BuyCarCheck)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full-stack Next.js web        
-  app for instant UK vehicle checks, integrating official DVLA APIs to verify tax status, MOT, write-off history, and mileage — built after going through the pain of buying a car myself.                                                 
-- **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless.
-- **[ADMerger](https://github.com/TechAngelX/ADMerger)**: Cross-platform desktop application, MVVM architecture that automates university admissions spreadsheet processing, featuring real-time fuzzy matching and intelligent grading classification.
-- **[SnakeIt](https://www.zoopbyte.com/snakeit)**: Browser-based retro snake game with a PostGres SQL backend — leaderboard scores persisted via REST API calls with row-level security, serverless functions and frontend deployed on Vercel, with full PWA support.
-
-  - **[XCore Tasks API](https://github.com/TechAngelX/xcore-api)**: Secure, production-style RESTful backend built      
-  with Spring Boot, featuring JWT authentication, role-based access control, PostgreSQL integration, and Dockerised       
-  deployment.                                  
-- **GradeWiz**: A C#/.NET and Java application to calculate university module grades.
-- **CoreTime**: A time management tool developed in C#/.NET.
-- **TechBay**: A mock eBay auction website clone showcasing full-stack development skills.
-- **Cursicon**: Implemented a recursive Depth First Search algorithm for maze navigation.
 Check out more of my projects on[GitHub](https://github.com/TechAngelX).
 
 ![DemonLogo-2035](https://github.com/user-attachments/assets/91f871bc-df37-4f1c-80ab-f931a2593650)
