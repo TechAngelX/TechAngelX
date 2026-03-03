@@ -19,11 +19,12 @@ I'm a bit of a Hackathon freak. I enjoy building and shipping projects quickly, 
 I am proficient in:
 
 - **Programming Languages**: Java, C#, Swift, PHP, JavaScript, SQL, and basics in C++, Python, and Solidity.
-- **Web Technologies**:
-- Frontend: HTML, CSS, JavaScript, React.js, Vue.js (love Tailwind ❤️)
-- Backend & APIs: JavaScript, Node.js, Express, Spring Boot, Python/Django, REST APIs
-- **Cloud & IT Management**: Google Cloud/GKE, AWS, Azure, Microsoft 365,Active Directory, Salesforce, Vercel / Render
+- **Frontend**: HTML, CSS, JavaScript, React.js, Vue.js (love Tailwind ❤️)
+- **Backend**: JavaScript, Node.js, Express, Spring Boot, Python/Django, FastAPI, REST APIs
+- **AI & Machine Learning**: Neural network design, deep learning, model training, computer vision, GANs, and exploratory work with LLMs and generative AI tooling.
+- **Cloud & IT Management**: Google Cloud/GKE, AWS, Azure, Microsoft 365, Active Directory, Salesforce, Vercel / Render.
 - **DevOps & Containerization**: Docker, K8s, CI/CD integration.
+- - **Security**: JWT authentication, OAuth 2.0, RBAC, row-level security, environment variable management, bcrypt password hashing, Spring Security.
 - **Database Administration**: Postgres, Oracle PL/SQL, MySQL/PHP, SQL Developer, MongoDB.
 - **Linux & Scripting**: Bash/Zsh scripting, Linux CLI, Homebrew (macOS), PowerShell (Windows), Chocolatey, Claude CLI.
 
@@ -41,8 +42,8 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
 |:---|:---|
 | **[ZoopByte](https://www.zoopbyte.com)** | Check it out yourselves to know more. |
 | **[Dossier](https://github.com/TechAngelX/Dossier)** | Automate UCL Portico admissions processing with browser automation. |
-| **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)** | Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless. |
-| **[BuyCarCheck](https://github.com/TechAngelX/BuyCarCheck)** | Full-stack Next.js web app for instant UK vehicle checks, integrating official DVLA APIs to verify tax status, MOT, write-off history, and mileage — built after going through the pain of buying a car myself. |
+| **[SoftAPI / softFIT](https://www.zoopbyte.com/softfit)** | Programmatic GLB garment generation API. Converts 2D textures into rigged 3D models using Blender headless. - Try it out !  - load an image into the **[live demo](https://www.zoopbyte.com/softfit)** |
+| **[BuyCarCheck](https://buycarcheck.com/)** | Full-stack Next.js web app for instant UK vehicle checks, integrating official DVLA APIs to verify tax status, MOT, write-off history, and mileage — built after going through the pain of buying a car myself. |
 | **[ADMerger](https://github.com/TechAngelX/ADMerger)** | Cross-platform desktop application, MVVM architecture that automates university admissions spreadsheet processing, featuring real-time fuzzy matching and intelligent grading classification. |
 | **[SnakeIt](https://www.zoopbyte.com/snakeit)** | Browser-based retro snake game with a PostgreSQL backend — leaderboard scores persisted via REST API calls with row-level security, serverless functions and frontend deployed on Vercel, with full PWA support. |
 | **[XCore Tasks API](https://github.com/TechAngelX/xcore-api)** | Secure, production-style RESTful backend built with Spring Boot, featuring JWT authentication, role-based access control, PostgreSQL integration, and Dockerised deployment. |
