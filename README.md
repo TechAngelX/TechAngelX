@@ -62,7 +62,7 @@ But my primary language (my 'bread and butter') is Java, and all the fun aspects
   | **TechBay** | A mock eBay auction website clone showcasing full-stack development skills. |
   | **Cursicon** | Implemented a recursive Depth First Search algorithm for maze navigation. |
 
-Check out more of my projects on [GitHub](https://github.com/yourusername).
+Check out more of my projects on[GitHub](https://github.com/TechAngelX).
 
 ![DemonLogo-2035](https://github.com/user-attachments/assets/91f871bc-df37-4f1c-80ab-f931a2593650)
 
